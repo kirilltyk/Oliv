@@ -209,14 +209,14 @@ nav:hover{
     background-color: #8b8814;
 }
 
-@keyframes b4bt{
+/*@keyframes b4bt{
     from{
         transform: rotate(3deg);
     }
     to{
         transform: rotate(-3deg);
     }
-}
+}*/
 
 
 footer{
@@ -272,4 +272,5 @@ footer a:visited{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-around;
+
 }
