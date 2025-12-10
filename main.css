@@ -261,7 +261,7 @@ footer a:visited{
 
   @media (max-width: 660px) {
     nav{
-        dispaly: none;
+        display: none;
     }
 
     .fix-top{
@@ -293,6 +293,7 @@ footer a:visited{
         align-content: center;
     }
   }
+
 
 
 
